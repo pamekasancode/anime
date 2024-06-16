@@ -5,7 +5,7 @@ const data = [
     episodes: 75,
     status: "Ongoing",
     rating: 9.0,
-    image: "https://cdns.klimg.com/kapanlagi.com/p/001attackontitanseason12013l5banbnxkftztdf669c37e06314f31cc61a2.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/id/d/d6/Shingeki_no_Kyojin_manga_volume_1.jpg",
   },
   {
     title: "My Hero Academia",
@@ -61,6 +61,6 @@ const data = [
     episodes: 97,
     status: "Ongoing",
     rating: 7.5,
-    image: "https://cdns.klimg.com/kapanlagi.com/p/001swordartonline2012drtyhj3456789.jpg",
+    image: "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/13d6e1ce564b2080bcc39f8ef1288690.jpe",
   },
 ];
